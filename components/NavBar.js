@@ -12,9 +12,9 @@ const NavLink = ({ href, children }) => {
 const navBar = () => {
     return (
         <div className='bg-gray-500 py-4 text-center'>
-            <NavLink href='/sobre'><a>Sobre</a></NavLink>
-            <NavLink href='/cadastro'><a>Cadastro</a></NavLink>
-            <NavLink href='/entrar'><a>Entrar</a></NavLink>
+            <NavLink href='/sobre'   >Sobre</NavLink>
+            <NavLink href='/cadastro'>Cadastro</NavLink>
+            <NavLink href='/entrar'  >Entrar</NavLink>
         </div>
     )
 }

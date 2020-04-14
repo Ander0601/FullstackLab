@@ -167,14 +167,7 @@ var navBar = function navBar() {
       lineNumber: 15,
       columnNumber: 13
     }
-  }, __jsx("a", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15,
-      columnNumber: 36
-    }
-  }, "Sobre")), __jsx(NavLink, {
+  }, "Sobre"), __jsx(NavLink, {
     href: "/cadastro",
     __self: _this,
     __source: {
@@ -182,14 +175,7 @@ var navBar = function navBar() {
       lineNumber: 16,
       columnNumber: 13
     }
-  }, __jsx("a", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 39
-    }
-  }, "Cadastro")), __jsx(NavLink, {
+  }, "Cadastro"), __jsx(NavLink, {
     href: "/entrar",
     __self: _this,
     __source: {
@@ -197,14 +183,7 @@ var navBar = function navBar() {
       lineNumber: 17,
       columnNumber: 13
     }
-  }, __jsx("a", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 37
-    }
-  }, "Entrar")));
+  }, "Entrar"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (navBar);
